@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi, I'm Rafaela 👋
 
-<!--
-**RafaelaYazawa/RafaelaYazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+
+I was a Le Wagon Full-time Web Development student and graduated in March, 2025. I learned so much from it and I am so thankful for the experience. 
+
+
 
 Here are some ideas to get you started:
 
