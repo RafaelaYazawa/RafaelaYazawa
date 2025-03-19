@@ -1,6 +1,6 @@
 ## Hi, I'm Rafaela 👋
 
-# About me 
+## About me: 
  ## Likes 🎶🎨
   I love to go to music festivals and museums (but I don't know anything about it). I love golden retrievers.
   
